@@ -8,7 +8,8 @@ It is a Unit Factory educational machine learning project. The main goal is to t
 * It's forbidden to directly import and use libraries like: numpy, scipy, scikitlearn, tensorflow, etc...
 
 ### Subject
-The project contains 6 mandatory parts and 3 bonus parts. Most of them are done and can be found in **main.ipynb** file inside the **notebooks** folder
+You can find the whole subject inside the **resources** directory
+Long story short, the project contains 6 mandatory parts and 3 bonus parts. Most of them are done and can be found in **main.ipynb** file inside the **notebooks** folder
 The main tasks are to create a **Perceptron** and an **Adaline** neurons to recognize good wines.
 File **main.ipynb** will move you through the whole subject and the documentation for each function will show how to use them.
 
