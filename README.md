@@ -15,7 +15,7 @@ The main tasks are to create a **Perceptron** and an **Adaline** neurons to reco
 File **main.ipynb** will move you through the whole subject and the documentation for each function will show how to use them.
 
 ### Prerequisites
-Docker daemon installed and run
+Docker installed and docker daemon running: https://www.docker.com/
 
 ### Installation and running
 ```
